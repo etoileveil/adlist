@@ -3,6 +3,10 @@
 127.0.0.1 localhost
 
 #disallowed, negated, denied
+0.0.0.0 woodod.com
+0.0.0.0 profitsurvey.org
+0.0.0.0 freshcandidates.com
+0.0.0.0 ym-a.cc/bn
 0.0.0.0 accessfreevpn.com
 0.0.0.0 pdfbookslibs.com
 0.0.0.0 arsonexchangefly.com
